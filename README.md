@@ -77,4 +77,6 @@ This project is licensed under the MIT License.
 UCI Machine Learning Repository – Forest Cover Type Dataset
 
 Kaggle contributors and open-source community
-  
+
+   <img width="772" height="547" alt="output_7_0" src="https://github.com/user-attachments/assets/81d8e4e7-5210-4675-9bc2-2f3a2a1869e3" />
+
